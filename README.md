@@ -45,3 +45,4 @@ python valhalla_app.py
 ## Note
 
 The first time you run the application, it will download the model which might take some time depending on your internet connection. 
+PS:- The file size might suprise you :>>>
